@@ -39,3 +39,4 @@ _(Assuming you've got Node version 6.0 or greater installed)_
 #### Deploying Manually
 
 - `npm run build`
+
